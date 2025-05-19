@@ -24,7 +24,7 @@ body {
 }
 
 header {
-  background-image: url("../public/image/Port_back3.avif");
+  background-image: url("./images/Port_back3.avif");
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
