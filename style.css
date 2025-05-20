@@ -463,6 +463,10 @@ footer #line {
     margin-top: 10px;
   }
 
+  .navbar .nav-links a{
+    font-size: 12px;
+  }
+
   .navbar .nav-links a:hover{
     color: var(--btn-color);
     text-decoration: underline;
