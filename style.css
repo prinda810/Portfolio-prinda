@@ -444,7 +444,7 @@ footer #line {
 }
 
 /* Mobile responsive adjustments */
-@media (max-width: 780px) {
+@media (max-width: 800px) {
   header {
     height: auto;
     padding: 20px 0;
@@ -517,7 +517,7 @@ footer #line {
 
   .container {
     flex-direction: column 2;
-    height: 500px;
+    height: auto;
     gap: 60px;
     padding: 20px;
   }
